@@ -42,9 +42,30 @@ img {
     width: 926px;
 }
 
-.profil-img-second, .profil-img-fith {
+.profil-img-second {
     margin-top: 67px;
 }
+
+.profil-img-fith {
+    margin-top: 168px;
+}
+
+.profil-img-fourth, .profil-imgs-sixth {
+    margin-top: 132px;
+}
+
+.profil-img-team div {
+    position: relative;
+}
+
+.profil-img-team div span {
+    position: absolute;
+    display: inline-block; 
+    transform: rotate(90deg);
+    top: 40px;
+    left: 200px;
+}
+
 
 
 
