@@ -4,7 +4,11 @@
 }
 
 body {
+    font-family: "Poppins", sans-serif;
+}
 
+.who-we-are h3, h1, span {
+    font-family: "PT Serif", serif;
 }
 
 .who-we-are-section {
@@ -62,6 +66,7 @@ img {
     position: absolute;
     display: inline-block; 
     transform: rotate(90deg);
+    width: 102px;
     top: 40px;
     left: 210px;
 }
