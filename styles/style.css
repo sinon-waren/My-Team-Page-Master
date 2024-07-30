@@ -54,17 +54,46 @@ img {
     margin-top: 132px;
 }
 
-.profil-img-team div {
+.profil-img-team div  {
     position: relative;
 }
 
-.profil-img-team div span {
+ .profil-img-first span {
     position: absolute;
     display: inline-block; 
     transform: rotate(90deg);
     top: 40px;
-    left: 200px;
+    left: 210px;
 }
+
+.profil-img-second span {
+    position: absolute;
+    display: inline-block; 
+    transform: rotate(90deg);
+    top: 30px;
+    left: 220px;
+}
+
+.profil-img-fourth span {
+    position: absolute;
+    display: inline-block; 
+    transform: rotate(90deg);
+    top: 35px;
+    left: 220px;
+}
+
+
+
+.profil-img-third span, .profil-img-fith span, .profil-imgs-sixth span {
+    position: absolute;
+    display: inline-block; 
+    transform: rotate(90deg);
+    top: 23px;
+    left: 225px;
+}
+
+
+
 
 
 
